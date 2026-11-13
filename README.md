@@ -17,3 +17,7 @@ A simple Telegram bot where customers pick items from a menu, review their cart,
 - The bot token is read from .env, which is git-ignored
 - The orders database (orders.db) is git-ignored
 - Never commit tokens or real customer data
+
+## Screenshot
+
+<img src="screenshots/menu.png" width="300">
