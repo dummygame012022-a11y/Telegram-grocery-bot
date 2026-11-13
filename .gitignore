@@ -1,0 +1,7 @@
+.env
+*.db
+*.bak
+__pycache__/
+p1.py
+p2.py
+token.txt
